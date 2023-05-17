@@ -38,7 +38,7 @@ To use the movie recommendation system, follow these steps:
 1. Ensure that you have installed the required dependencies (see [Installation](#installation)).
 2. Run the following command to start the recommendation system:
    ```
-   python movie_recommendation_system.py
+   streamlit run main.py
    ```
 3. Follow the instructions provided by the system to input your preferences and receive movie recommendations.
 
@@ -56,11 +56,3 @@ Here are a few examples of how to use the movie recommendation system:
 1. Input your favorite movie genres, keywords, or actors/actresses, and the system will recommend similar movies.
 2. Specify a particular movie, and the system will suggest movies that are similar in terms of genre, keywords, or cast.
 3. Rate a set of movies, and the system will recommend movies that have high similarity to your rated movies.
-
-## Contributing
-Contributions to this movie recommendation system are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please submit an issue or a pull request.
-
-When contributing, please ensure to adhere to the existing code style and follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-This movie recommendation system is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
