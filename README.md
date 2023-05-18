@@ -8,8 +8,6 @@ This is a movie recommendation system implemented in Python. The system utilizes
 - [Usage](#usage)
 - [Recommendation Algorithm](#recommendation-algorithm)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 The dataset used in this movie recommendation system consists of 5000 movies and is stored in a CSV file. Each movie in the dataset has the following attributes:
