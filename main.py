@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import requests
 
+st.set_page_config(layout="wide")
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
