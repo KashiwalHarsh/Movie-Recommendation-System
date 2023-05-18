@@ -1,3 +1,7 @@
+[client]
+
+toolbarMode = "viewer"
+
 [theme]
 
 primaryColor="#d33682"
